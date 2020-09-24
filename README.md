@@ -1,6 +1,7 @@
 # Impact-1.15.2
 
 Impact 1.15.2 + OptiFine (silent)
+
 Install original minecraft 1.15.2 first
 
 Execute this code in powershell to run hack loader
